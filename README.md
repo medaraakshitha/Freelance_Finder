@@ -1,4 +1,5 @@
 FREELANCEFINDER : DISCOVERING OPPORTUNITIES, UNLOCKING POTENTIAL
+
 Full-stack FreelanceFinder with React frontend and Node.js backend.
 
 Features
