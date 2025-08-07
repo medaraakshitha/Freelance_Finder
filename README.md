@@ -15,7 +15,7 @@ Backend: Node.js, Express.js, MongoDB, JWT
 
 📹 Demo Video
 
-Click here to watch the demo video (https://drive.google.com/file/d/1iMSbC4qhgLwfyZawz0xIpFZl4-73vBVS/view?usp=drive_link)
+Click here to watch the demo video (https://drive.google.com/drive/folders/12i8qN_gOfbeKK2MrE5lsgePr0S2cWVwM)
 
 Installation
 1. Clone & Install
